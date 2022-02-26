@@ -1,1 +1,5 @@
-console.log("Hello there!")
+const sayHello  = function (name) {
+  console.log("Hello, " + name);
+}
+
+sayHello("Joba");
